@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Animated Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,20,30&height=220&section=header&text=Pratyush%20Sharma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=NxtWave%20Innovator%20%7C%20AI%20%26%20Advanced%20Technologies&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,20,30&height=200&section=header&text=Pratyush%20Sharma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Pratyush Sharma" />
+
+  <br/><br/>
 
   <!-- Animated Neon Typing SVG -->
   <a href="https://github.com/pratyushsh00007-sudo">

@@ -90,13 +90,20 @@
 
 <div align="center">
 
+  <!-- Glowing Developer Rank Badge -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Developer_Rank-A%2B-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0D1117" alt="A+ Developer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Active_Builder-7928CA?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117" alt="Status" />
+  </p>
+
   <!-- Streak Stats Card -->
   <a href="https://github.com/pratyushsh00007-sudo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushsh00007-sudo&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&border=00F0FF&fire=FF007F&ring=00F0FF" alt="GitHub Streak" width="49%" />
   </a>
-  <!-- GitHub Overall Stats -->
+  <!-- GitHub Overall Stats (Clean, Rank Circle Hidden) -->
   <a href="https://github.com/pratyushsh00007-sudo">
-    <img src="https://github-stats-extended.vercel.app/api?username=pratyushsh00007-sudo&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=7928CA&title_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=pratyushsh00007-sudo&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=7928CA&title_color=00F0FF&icon_color=FF007F&hide_rank=true" alt="GitHub Stats" width="49%" />
   </a>
 
 </div>

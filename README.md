@@ -96,7 +96,7 @@
   </a>
   <!-- GitHub Overall Stats -->
   <a href="https://github.com/pratyushsh00007-sudo">
-    <img src="https://github-readme-stats.vercel.app/api?username=pratyushsh00007-sudo&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=7928CA&title_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=pratyushsh00007-sudo&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=7928CA&title_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" width="49%" />
   </a>
 
 </div>
@@ -107,11 +107,7 @@
 
   <!-- Top Languages Card -->
   <a href="https://github.com/pratyushsh00007-sudo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsh00007-sudo&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=00F0FF&title_color=00F0FF" alt="Top Languages" width="49%" />
-  </a>
-  <!-- Trophy Rack -->
-  <a href="https://github.com/pratyushsh00007-sudo">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratyushsh00007-sudo&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=4" alt="GitHub Trophies" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratyushsh00007-sudo&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117&border_color=00F0FF&title_color=00F0FF" alt="Top Languages" width="60%" />
   </a>
 
 </div>
